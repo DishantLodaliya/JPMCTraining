@@ -1,0 +1,15 @@
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\bin\Debug\net6.0\HandsOnClasses.exe
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\bin\Debug\net6.0\HandsOnClasses.deps.json
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\bin\Debug\net6.0\HandsOnClasses.runtimeconfig.json
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\bin\Debug\net6.0\HandsOnClasses.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\bin\Debug\net6.0\HandsOnClasses.pdb
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.csproj.AssemblyReference.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.AssemblyInfoInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.AssemblyInfo.cs
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.csproj.CoreCompileInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\refint\HandsOnClasses.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.pdb
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\HandsOnClasses.genruntimeconfig.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnClasses\obj\Debug\net6.0\ref\HandsOnClasses.dll
