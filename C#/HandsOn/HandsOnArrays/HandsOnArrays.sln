@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnArrays", "HandsOnArrays.csproj", "{9F652B47-FB11-428B-80EC-4947B01C393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F652B47-FB11-428B-80EC-4947B01C393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F652B47-FB11-428B-80EC-4947B01C393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F652B47-FB11-428B-80EC-4947B01C393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F652B47-FB11-428B-80EC-4947B01C393F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A4530B-D403-4AC9-ACBD-9936EE8458EE}
+	EndGlobalSection
+EndGlobal

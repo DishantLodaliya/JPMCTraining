@@ -1,0 +1,15 @@
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArrays.exe
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArrays.deps.json
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArrays.runtimeconfig.json
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArrays.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArrays.pdb
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.csproj.AssemblyReference.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.AssemblyInfoInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.AssemblyInfo.cs
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\refint\HandsOnArrays.dll
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.pdb
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArrays.genruntimeconfig.cache
+C:\Dishant\JPMC\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\ref\HandsOnArrays.dll

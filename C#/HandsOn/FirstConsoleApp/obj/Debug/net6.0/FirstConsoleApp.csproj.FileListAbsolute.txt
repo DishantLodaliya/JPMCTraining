@@ -1,0 +1,15 @@
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.exe
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.deps.json
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.runtimeconfig.json
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.dll
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.pdb
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.AssemblyReference.cache
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.dll
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\refint\FirstConsoleApp.dll
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.pdb
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Dishant\JPMC\C#\HandsOn\FirstConsoleApp\obj\Debug\net6.0\ref\FirstConsoleApp.dll
